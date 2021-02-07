@@ -933,3 +933,9 @@
 
 [Cool Backgrounds](https://coolbackgrounds.io/)
 > 自动生成背景图片的工具网站，现在提供五种风格，每种都可以定制。  
+
+### 网站破解
+
+[FrazierLei/JS_crawler](https://github.com/FrazierLei/JS_crawler)
+> 破解一些网站的加密策略，尽量用Python实现。
+
